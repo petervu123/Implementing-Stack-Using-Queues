@@ -40,5 +40,4 @@ public:
         }
     }
 };
- * bool param_4 = obj->empty();
- */
+
